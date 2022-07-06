@@ -1,0 +1,13 @@
+name: 2022-i-cantones-flexdashboard-shiny
+title: 2022-i-cantones-flexdashboard-shiny
+username:
+account: mfvargas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6601867
+bundleId: 6075306
+url: https://mfvargas.shinyapps.io/2022-i-cantones-flexdashboard-shiny/
+when: 1657124261.84027
+lastSyncTime: 1657124261.8403
+asMultiple: FALSE
+asStatic: FALSE
